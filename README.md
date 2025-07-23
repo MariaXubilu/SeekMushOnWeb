@@ -23,7 +23,7 @@ SeekMush é uma aplicação web que utiliza redes neurais convolucionais (CNN) p
 ### Frontend
 - HTML5
 - CSS3 (Bootstrap 5)
-- JavaScript Vanilla
+- JavaScript
 
 ### IA
 - Tensor Flow
